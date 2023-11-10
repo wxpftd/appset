@@ -1,4 +1,4 @@
-export function main() {
+function main() {
     alert('hello boy');
 }
 
